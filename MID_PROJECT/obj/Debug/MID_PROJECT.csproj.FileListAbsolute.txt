@@ -1,0 +1,5 @@
+C:\Users\sarvent of ALLAH\Documents\Visual Studio 2012\Projects\MID_PROJECT\MID_PROJECT\bin\MID_PROJECT.dll
+C:\Users\sarvent of ALLAH\Documents\Visual Studio 2012\Projects\MID_PROJECT\MID_PROJECT\bin\MID_PROJECT.pdb
+C:\Users\sarvent of ALLAH\Documents\Visual Studio 2012\Projects\MID_PROJECT\MID_PROJECT\obj\Debug\MID_PROJECT.dll
+C:\Users\sarvent of ALLAH\Documents\Visual Studio 2012\Projects\MID_PROJECT\MID_PROJECT\obj\Debug\MID_PROJECT.pdb
+C:\Users\sarvent of ALLAH\documents\visual studio 2012\Projects\MID_PROJECT\MID_PROJECT\obj\Debug\MID_PROJECT.csprojResolveAssemblyReference.cache
